@@ -1,0 +1,11 @@
+[2025-09-14 01:55:42] error: PHP Warning: Constant VEGAS_SHOP_ACCESS already defined {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\utils\\FileUpload.php","line":8,"severity":2}
+[2025-09-14 01:55:42] critical: Uncaught Exception: Class "VegasShop\Utils\Cache" not found {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\models\\product.php","line":57,"trace":"#0 C:\\Users\\gndja\\Desktop\\vegas_shop\\public\\admin\\products.php(163): Product->readAll(10, 0)\n#1 {main}"}
+[2025-09-14 01:55:48] error: PHP Warning: Constant VEGAS_SHOP_ACCESS already defined {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\utils\\FileUpload.php","line":8,"severity":2}
+[2025-09-14 01:55:48] critical: Uncaught Exception: Class "VegasShop\Utils\Cache" not found {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\models\\product.php","line":57,"trace":"#0 C:\\Users\\gndja\\Desktop\\vegas_shop\\public\\admin\\products.php(163): Product->readAll(10, 0)\n#1 {main}"}
+[2025-09-14 01:55:52] error: PHP Warning: Constant VEGAS_SHOP_ACCESS already defined {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\utils\\FileUpload.php","line":8,"severity":2}
+[2025-09-14 01:55:52] critical: Uncaught Exception: Class "VegasShop\Utils\Cache" not found {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\models\\product.php","line":57,"trace":"#0 C:\\Users\\gndja\\Desktop\\vegas_shop\\public\\admin\\products.php(163): Product->readAll(10, 0)\n#1 {main}"}
+[2025-09-14 01:57:59] error: PHP Warning: Constant VEGAS_SHOP_ACCESS already defined {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\utils\\FileUpload.php","line":8,"severity":2}
+[2025-09-14 01:58:21] error: PHP Warning: Constant VEGAS_SHOP_ACCESS already defined {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\utils\\FileUpload.php","line":8,"severity":2}
+[2025-09-14 01:58:23] error: PHP Warning: Constant VEGAS_SHOP_ACCESS already defined {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\utils\\FileUpload.php","line":8,"severity":2}
+[2025-09-14 01:58:30] error: PHP Warning: Constant VEGAS_SHOP_ACCESS already defined {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\utils\\FileUpload.php","line":8,"severity":2}
+[2025-09-14 01:58:31] error: PHP Warning: Constant VEGAS_SHOP_ACCESS already defined {"file":"C:\\Users\\gndja\\Desktop\\vegas_shop\\src\\utils\\FileUpload.php","line":8,"severity":2}
